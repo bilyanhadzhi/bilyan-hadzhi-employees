@@ -1,0 +1,12 @@
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/ApplicationMain.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeePair.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeePairOnProject.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeeProjectLog.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeesController.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeesWhoWorkedTogetherService.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/employees/EmployeesWorkedTogetherLog.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/home/HomeController.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/time/DateFormatAndExplanationDTO.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/time/DateTimeFormatterService.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/time/LocalDateAndProjectId.java
+/home/bilyan/Coding/bilyan-hadzhi-employees-git/src/main/java/me/bilyan/bilyan_hadzhi_employees/time/LocalDateRange.java

@@ -1,0 +1,117 @@
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/poppins/Poppins-Regular.ttf);
+}
+
+* {
+    font-family: Poppins;
+}
+
+/* CSS Reset */
+/*
+  1. Use a more-intuitive box-sizing model.
+*/
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+/*
+  2. Remove default margin
+*/
+* {
+    margin: 0;
+}
+/*
+  Typographic tweaks!
+  3. Add accessible line-height
+  4. Improve text rendering
+*/
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+/*
+  5. Improve media defaults
+*/
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+/*
+  6. Remove built-in form typography styles
+*/
+input, button, textarea, select {
+    font: inherit;
+}
+/*
+  7. Avoid text overflows
+*/
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+/*
+  8. Create a root stacking context
+*/
+#root, #__next {
+    isolation: isolate;
+}
+
+html, body {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+body {
+    padding-top: 30px;
+}
+
+main > section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+section#form {
+    padding-top: 50px;
+}
+
+section#results-table-container {
+    padding-top: 30px;
+    width: 60%;
+}
+
+section#results-table-container > table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+th, td {
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #EEEEEE;
+}
+
+tr:nth-child(odd) {
+    background-color: #CFD8DC;
+}
+
+section#go-back-container {
+    margin-top: 50px;
+    align-items: left;
+}
+
+#date-format-container {
+    margin-top: 15px;
+}
